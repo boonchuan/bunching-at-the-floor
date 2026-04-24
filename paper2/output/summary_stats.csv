@@ -1,0 +1,7 @@
+period,platform,n_trips,mean_miles,mean_min,mean_pay,mean_fare,mean_ratio
+2024 (paper 1 baseline),Lyft,56750516,4.39,19.035,18.015,23.533,1.1096
+2024 (paper 1 baseline),Uber,161683942,4.5,19.11,18.936,24.628,1.1713
+Pre (Jan-Jul 2025),Lyft,36973487,4.317,18.643,18.188,23.139,1.118
+Pre (Jan-Jul 2025),Uber,92750877,4.47,18.524,19.175,25.526,1.1884
+Post (Aug 2025-Feb 2026),Lyft,65619608,4.206,18.612,18.89,24.257,1.1886
+Post (Aug 2025-Feb 2026),Uber,106324240,4.352,18.921,19.694,25.465,1.214
